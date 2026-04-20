@@ -1,0 +1,6 @@
+com\example\webhookapp\model\GenerateRequest.class
+com\example\webhookapp\model\GenerateResponse.class
+com\example\webhookapp\service\WebhookService.class
+com\example\webhookapp\runner\StartupRunner.class
+com\example\webhookapp\WebhookApplication.class
+com\example\webhookapp\model\SubmitRequest.class
